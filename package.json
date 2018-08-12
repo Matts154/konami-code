@@ -1,0 +1,8 @@
+{
+  "name": "konami-code",
+  "version": "1.0.0",
+  "description": "Generates a promise that resolves when the konami code is entered on a webpage.",
+  "main": "src/js/index.js",
+  "author": "Matt",
+  "license": "MIT"
+}
