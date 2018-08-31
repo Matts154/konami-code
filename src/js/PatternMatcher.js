@@ -4,7 +4,6 @@
 })(window, document, function() {
     var self = this;
     self.inputHistory = [];
-    self.promise;
     self.pattern;
 
     function app(resolve, reject) {
